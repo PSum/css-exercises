@@ -1,0 +1,20 @@
+* {
+    font-family: "DejaVu Sans", sans-serif;
+}
+
+.odd {
+    background-color: rgb(178, 134, 162);
+}
+
+#secondE{
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+.greenBack{
+    background-color: green;
+}
